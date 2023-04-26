@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Charm-Boy/Charm-Boy/blob/main/Pink%20Gaming%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Charm-Boy</h1>
 <h3 align="center">A passionate frontend developer..</h3>
 
